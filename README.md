@@ -7,7 +7,7 @@ aliasar1/aliasar1 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasar1&layout=compact)](https://github.com/aliasar1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasar1&layout=compact&theme=github_dark)](https://github.com/aliasar1/github-readme-stats)
  <p >
   <img alt="Ali Asar's Github Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasar1&theme=github_dark" /><br>
   <br>
