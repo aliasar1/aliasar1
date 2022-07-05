@@ -8,9 +8,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasar1&layout=compact&theme=github_dark&langs_count=8)](https://github.com/aliasar1/github-readme-stats)
- <p >
-  <img alt="Ali Asar's Github Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasar1&theme=github_dark" /><br>
-  <br>
-<img  alt="Ali Asar's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliasar1&theme=github_dark" />
-</p>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasar1&layout=compact&theme=github_dark&langs_count=8" width = "400" height="250">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliasar1&theme=github_dark" width = "400" height="219">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasar1&theme=github_dark" width = "800">
+</div>
