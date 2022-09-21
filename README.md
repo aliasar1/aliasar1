@@ -13,3 +13,9 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliasar1&theme=github_dark" width = "400" height="219">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasar1&theme=github_dark" width = "800">
 </div>
+
+<br>
+
+<p align='right'>
+<img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/aliasar1&label=Views&countColor=%23697689&style=flat-square" />
+</p>
