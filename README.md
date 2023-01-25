@@ -15,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <br>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aliasar1&theme=tokyonight"/></a>
+</p>
+
 
 <p align='center'>
 <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/aliasar1&label=Views&countColor=%23697689&style=flat-square" />
