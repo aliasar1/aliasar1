@@ -19,7 +19,12 @@ You can click the Preview link to take a look at your changes.
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aliasar1&theme=tokyonight"/></a>
 </p>
 
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasar1&layout=compact&theme=tokyonight" width = "400" height="219">
+</p>
 
 <p align='center'>
 <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/aliasar1&label=Views&countColor=%23697689&style=flat-square" />
 </p>
+
