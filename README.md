@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Asar Khowaja</h1>
-<h3 align="center">A dedicated 4th-year Computer Science student from Karachi, Pakistan with 2 years of experience in Flutter and currently engaged in designing backend infrastructure.✔️</h3>
+<h3 align="center">A tech enthusiast from Karachi, Pakistan, with 3 years of experience in Flutter, currently engaged in designing backend infrastructure.✔️</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aliasar1&label=Profile%20views&color=0e75b6&style=flat" alt="aliasar1" /> </p>
 
@@ -19,3 +19,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliasar1&show_icons=true&locale=en&layout=compact" alt="aliasar1" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliasar1&" alt="aliasar1" /></p>
+
